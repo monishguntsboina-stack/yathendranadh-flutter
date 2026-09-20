@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "918855797228",
+    "project_id": "planning-with-ai-972d8",
+    "storage_bucket": "planning-with-ai-972d8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918855797228:android:afdc8d05aa9b87432798c9",
+        "android_client_info": {
+          "package_name": "com.example.smart_restaurant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_JJlWeLhj9-a-rCCNs2dyHCaFTdQU6Hs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
