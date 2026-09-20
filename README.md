@@ -1,17 +1,36 @@
-# smart_restaurant
+﻿# Smart Kitchen & Restaurant Management System 🍽️📱
 
-A new Flutter project.
+A full-featured Flutter mobile application for restaurant and kitchen operations, complete with live order tracking, role-based dashboards, and Firebase backend.
 
-## Getting Started
+## 🚀 Key Features
 
-This project is a starting point for a Flutter application.
+- **Kitchen Dashboard**: Real-time incoming orders, status updates (Preparing, Ready, Served).
+- **Waiter Dashboard**: Table assignments, fast status toggles, and table management.
+- **Customer Portal**: Digital food menu, interactive cart, checkout, and order history.
+- **Admin Management**: Menu items, prices, and categories control.
+- **Real-time Backend**: Firebase Authentication and Cloud Firestore synchronization.
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Tech Stack
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- **Framework**: Flutter (Dart)
+- **Backend / Database**: Firebase Cloud Firestore & Firebase Auth
+- **Architecture**: Service-oriented with modular models & widgets
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 💻 How to Run
+
+1. Ensure Flutter SDK is installed.
+2. Clone this repository:
+   ```bash
+   git clone https://github.com/yathendranadh/yathendranadh-flutter.git
+   ```
+3. Install dependencies:
+   ```bash
+   flutter pub get
+   ```
+4. Run the application:
+   ```bash
+   flutter run
+   ```
+
+---
+Developed with Flutter & Firebase.
